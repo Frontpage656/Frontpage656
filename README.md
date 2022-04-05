@@ -12,7 +12,7 @@
 - 📫 How to reach me **joshuasimon656@gmail.com**
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frontpage656&theme=darck" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frontpage656&theme=dark" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

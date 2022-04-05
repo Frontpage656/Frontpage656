@@ -1,4 +1,4 @@
-<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">   I'm Joshua Saimon</h1>
+<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">   I'm Joshua Simon</h1>
 <h3 align="center">A passionate mobile and game developer from Tanzania</h3>
 
 - 🔭 I’m currently working on [FEMA BOT](https://github.com/Frontpage656/FEMA-CHATING-BOT)

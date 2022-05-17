@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [FEMA BOT Mobile App](https://github.com/Frontpage656/FEMA-CHATING-BOT)
 
-- 💬 Ask me about **Mobile development with Java, Advanced Java, Flutter, JavaFx*
+- 💬 Ask me about Mobile development with Java, Advanced Java, Flutter, JavaFx
 
 - 📫 How to reach me **joshuasimon656@gmail.com**
 

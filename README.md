@@ -24,7 +24,7 @@ I am a passionate individual who enjoys tackling tech issues and continuously ex
 - I have also collaborated on various projects, including the [MUST Navigation System](https://example.com/mustnavigation) (a VR-based navigation system for the university) and [Ecoedu](https://example.com/ecoledu) (a mobile app utilizing AR technologies to enhance the learning experience).
 - Additionally, I have extensive experience in backend development with Spring Boot. One of my notable projects is the [CITT Project Management System](https://example.com/cittproject), which assists the department in managing innovation effortlessly.
 
-## Skills
+## Skills 
 Here are some of the skills I possess:
 
 - Java
@@ -39,9 +39,9 @@ Here are some of the skills I possess:
 ## Contact Me
 Feel free to reach out to me for any inquiries or collaboration opportunities:
 
-- Email: joshua.simon@example.com
+- Email: joshuasimon656@gmail.com
 - LinkedIn: [Joshua Simon](https://www.linkedin.com/in/joshuasimon)
-- Twitter: [@joshua_simon](https://twitter.com/joshua_simon)
+- Twitter: [@joshua_simon](https://twitter.com/JosureSimon)
 
 ## Projects
 Here is a table summarizing some of my notable projects:
@@ -59,12 +59,10 @@ Here is a table summarizing some of my notable projects:
 Feel free to explore my projects and reach out to me for more information or collaborations!
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Frontpage656.Frontpage656" alt="visitors">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Frontpage656" alt="visitors">
 </p>
 
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frontpage656&theme=dark" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

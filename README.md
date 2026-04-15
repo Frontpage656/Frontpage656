@@ -1,3 +1,4 @@
+<p>
 <h1 align="center">Josh Simon</h1>
 <p align="center">Software Engineer</p>
 

@@ -1,4 +1,4 @@
-# Hey, I'm Josh Simon 👋
+# Hey, I'm Josh 👋
 
 **Software Engineer · Distributed Systems · RF Security**
 
